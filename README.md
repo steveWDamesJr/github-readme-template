@@ -3,7 +3,7 @@
 
 # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-### **I'm Hammas Bin Saleem**
+### **I'm ______________**
 #### Full-stack Software Developer in the Making
 
 - 🌱 I’m currently working at **Microverse** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
@@ -142,10 +142,10 @@
 
 <div style="margin-top:10px">
   <div>
-    <a  href="https://www.linkedin.com/in/hammas-saleem-407/" target="_blank">
+    <a  href="https://www.linkedin.com/in/_______________/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
-    <a href="https://twitter.com/HammasSaleem4" target="_blank">
+    <a href="https://twitter.com/_______________" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
   </div>
@@ -154,7 +154,7 @@
 <h3>Reach me</h3>
 
 <p>
-  <a href="mailto:hammassaleem376@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:____________________@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
@@ -177,9 +177,9 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
 or email me 
-http://hammassaleem376@gmail.com
+http://_______________@gmail.com
 
-⭐️ From [HAMMAS](https://github.com/HAMAS-SALEEM)
+⭐️ From [________](https://github.com/___________)
 
 ## Happy Coding! 😊
 
